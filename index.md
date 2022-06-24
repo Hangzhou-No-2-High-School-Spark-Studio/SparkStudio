@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# 星火传媒
+## ようこそ。
 
-You can use the [editor on GitHub](https://github.com/Hangzhou-No-2-High-School-Spark-Studio/SparkStudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到**杭州二中星火传媒社团**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+杭州二中星火传媒社团于2017年9月1日成立，社团宗旨是为喜欢多媒体的同学们提供学习拍摄、剪辑的平台，为有信息技术方面才能的同学提供展示自己的舞台，为热衷广播、主持的同学提供能让自己的声音响彻校园的讲台。我们是二中最亮的眼睛，用镜头定格每一个美好的瞬间，用广播传递出直抵心灵的话语，在丰富课余生活的同时促进同学们全面发展。
 
-### Markdown
+我们的QQ群：```870815880（2022）``` 
+我们的公众号：```QQ：星火公众号2936731389```  
+             ```Bilibili：星火传媒SparkStudioBilibili：65387149``` 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 社团负责的主要工作有：
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+```
+1.学校大型活动、各社团相关活动、宣传片、纪录片的拍摄和后期剪辑制作。
+2.相关活动光盘制作、售卖。
+3.对应时间段开展学生点歌活动。
 
-- Bulleted
-- List
+```
+##  社团获奖情况
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+1（协助桃李文学社）第十五届杭州市中学校园文学社团PK大赛-最具竞争力文学社
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 传送门
+[Bilibili：星火传媒SparkStudio](https://space.bilibili.com/375482404/?spm_id_from=333.999.0.0)
 
-### Jekyll Themes
+[我们的学校](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6/9823541)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hangzhou-No-2-High-School-Spark-Studio/SparkStudio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Akatsuki的主页](https://kmyoamoa.github.io/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[freeheaven](https://free-heaven.github.io/zyttws/)
