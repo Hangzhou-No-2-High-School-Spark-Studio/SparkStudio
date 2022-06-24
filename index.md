@@ -44,4 +44,4 @@
 
 [星火传媒微博](https://weibo.com/u/7738726172)
 
-[freeheaven](https://free-heaven.github.io/zyttws/)
+[网页支持freeheaven](https://free-heaven.github.io/zyttws/)
