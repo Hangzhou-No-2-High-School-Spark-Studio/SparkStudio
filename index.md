@@ -40,7 +40,7 @@
 
 [我们的学校](https://baike.baidu.com/item/%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E7%AC%AC%E4%BA%8C%E4%B8%AD%E5%AD%A6/9823541)
 
-[QQ：星火传媒公众号](https://space.bilibili.com/375482404/?spm_id_from=333.999.0.0)
+[QQ：星火传媒公众号](https://user.qzone.qq.com/2936731389)
 
 [星火传媒微博](https://weibo.com/u/7738726172)
 
